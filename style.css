@@ -144,6 +144,8 @@ li{
 }
 .poster{
     background-color: blue;
+    background-image: url(resources/poster\ 1.png);
+    background-size: 100% 100%;
     height: 85%;
     width: 45%;
     margin: 2%;
@@ -183,5 +185,29 @@ li{
     background-color: blue;
 }
 .sitemsu{
+    height: 80%;
+    width: 20%;
+    background-color: antiquewhite;
+    border: solid blue 2px;
+    margin: 2%;
 
+}
+.sitemsb{
+    height: 80%;
+    width: 20%;
+    background-color: antiquewhite;
+    border: solid blue 2px;
+    margin: 2%;
+
+}
+.bb{
+    position:absolute;
+    top: 80px;
+}#item1{
+    background-image: url(resources/earbuds.png);
+    background-size: 100% 100%;
+}
+#item2{
+    background-image: url(resources/smrtwth.png);
+    background-size: 100% 100%;
 }
